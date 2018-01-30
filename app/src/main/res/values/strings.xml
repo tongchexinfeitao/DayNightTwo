@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DayNightTwo</string>
+    <string name="change_to_content">切换成夜间模式</string>
+</resources>
